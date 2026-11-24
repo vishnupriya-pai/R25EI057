@@ -5,3 +5,5 @@ Hello! I am Vishnupriya Pai (Roll No: R25EI057), an engineering student pursuing
 - Learning Python
 
 - Interested in cloud computing
+
+- Goal: contribute to open source
