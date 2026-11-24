@@ -11,12 +11,13 @@ Always eager to explore new technologies, enhance technical skills, and take on 
 
 ---
 
-### Featured Projects & Experience
-Driven by curiosity and a desire to build meaningful solutions, I've explored projects across web development, IoT, AI, and cybersecurity:
-- **Tattva**: An AI-powered platform that challenges users' critical thinking through interactive questions and intelligent traps.
-- **Job Application Portal (Career-Bridge)**: A feature-rich web portal providing role-based workspaces for candidates, coordinators, and administrators.
-- **ESP32-based Smart Medicine Reminder System**: An IoT-based automated reminder system designed for healthcare convenience.
-- **Python Security Mini-Projects**: Practical utilities including a Password Security Analyzer and a Phishing URL Detector.
+## Projects
+
+Here are key engineering and software projects I have developed and contributed to:
+- **Tattva**: An AI-powered web platform that challenges users' critical thinking using intelligent questions and adaptive traps.
+- **Career-Bridge**: A full-stack job application portal providing role-based workspaces for candidates, coordinators, and administrators.
+- **ESP32 Smart Medicine Reminder System**: An automated IoT healthcare system using ESP32 to remind patients of scheduled dosages.
+- **Cybersecurity Python Tools**: Practical security utilities including a Password Security Analyzer and a Phishing URL Detector.
 
 Working on these projects has given me practical experience with Supabase, Antigravity, database management, and prompt engineering, while strengthening my problem-solving and development skills. I'm eager to apply these skills to real-world challenges and grow further in cybersecurity and full-stack development.
 
